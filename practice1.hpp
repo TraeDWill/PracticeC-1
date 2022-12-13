@@ -6,10 +6,10 @@
 
 using namespace std;
 
-int main(int argc, char * argv[])
-{
+//Variables
+const int SIZE = 50;
 
-    return 0;
 
-}
+//Functions
+char * first();
 
